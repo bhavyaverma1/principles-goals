@@ -1,4 +1,4 @@
-#PRINCIPLES 2019_
+# PRINCIPLES 2019_
 A simple clean working draft of mah principles.
 
 ## 1. Prioritize family
@@ -9,10 +9,10 @@ Juz coz family comes first. Quote--“A man who doesn't spend time with his fami
 Being young we have not just years, but _decades_ to execute on our goals. So **be patient**.
 
 ## 3. Consistency
-### 3.1 Power of Habits
+###   3.1 Power of Habits
 Make use of it. Cue + Routine ==Reward. Its that simple.
-### 3.2 Show up.
-### 3.3 Understand the diff between 'enjoy' and 'pleasure' and hence enjoy the process.
+###   3.2 Show up.
+###   3.3 Understand the diff between 'enjoy' and 'pleasure' and hence enjoy the process.
 
 ## 4. Minimalism
 A tool that can assist you in finding freedom. And discipline==freedom
